@@ -9,7 +9,7 @@ public class RetroClient {
     /********
      * URLS
      *******/
-    private static final String ROOT_URL = "https://api.nytimes.com/";
+    private static final String ROOT_URL = "https://api.nytimes.com/svc/mostpopular/v2/mostviewed/";
 
 
     /**

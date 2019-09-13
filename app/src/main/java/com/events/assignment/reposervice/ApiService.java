@@ -8,6 +8,6 @@ import retrofit2.http.Query;
 
 public interface ApiService {
 
-    @GET("/svc/mostpopular/v2/mostviewed/all-sections/7.json")
+    @GET("all-sections/7.json")
     Call<Root> getMostViewed(@Query("api-key") String apikey);
 }
