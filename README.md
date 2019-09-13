@@ -3,6 +3,7 @@
 Instrumentation tests coverage reports
 Generating instrumentation tests code coverage reports requires a minor change to the build script.
 
+ ![1](https://user-images.githubusercontent.com/15821172/64888379-e6063a00-d67b-11e9-81c4-7f324f5e353d.PNG)
 
 
 ## Testing frameworks and APIs
