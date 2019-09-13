@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_relative"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/padding_s"
+    android:paddingLeft="?listPreferredItemPaddingLeft"
+    android:paddingRight="?listPreferredItemPaddingRight"
+    android:paddingTop="@dimen/padding">
+
+    <LinearLayout
+        android:id="@+id/message_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="52dp"
+        android:paddingRight="@dimen/padding">
+
+        <TextView
+            android:id="@+id/textview_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="2"
+            android:textColor="@color/darkgrey"
+            android:textSize="@dimen/text_s"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview_byline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:layout_marginTop="@dimen/margintop_m"
+            android:lines="2"
+            android:textColor="@color/lightgrey"
+            android:textSize="@dimen/text_s" />
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:gravity="end"
+            android:drawablePadding="@dimen/padding_s"
+            android:drawableLeft="@drawable/ic_small_calendar"
+            android:layout_toRightOf="@+id/icon_star"
+
+            />
+
+    </LinearLayout>
+
+            <ImageView
+                android:layout_width="@dimen/layout_height"
+                android:layout_height="@dimen/layout_height"
+                android:src="@drawable/ic_circular_shape"
+                android:layout_marginTop="@dimen/margin_top_l"
+                />
+</RelativeLayout>
