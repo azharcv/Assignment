@@ -15,4 +15,7 @@ Espresso is a part of the ATSL (Android Testing Support Library) and a framework
 Espresso-Core
 The core API is small, predictable, and easy to learn API which. Espresso enables testing of state expectations, interactions, and assertions clearly without the distraction of boilerplate content, custom infrastructure, or messy implementation details getting in the way.
 
+##  Add dependency inside the app gradle
+![2](https://user-images.githubusercontent.com/15821172/64888600-747abb80-d67c-11e9-979b-6a3d909e61a6.PNG)
+
 
