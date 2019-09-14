@@ -1,5 +1,7 @@
 # Assignment
 
+I made an app that contains a screen with home page,detail page,Searching title
+
 Instrumentation tests coverage reports
 Generating instrumentation tests code coverage reports requires a minor change to the build script.
 
