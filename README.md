@@ -8,6 +8,12 @@ implement retrofit inside project.
 #
 ![mainjava](https://user-images.githubusercontent.com/15821172/64904860-10d6a980-d6e1-11e9-86a7-e3d148adaf71.PNG)
 
+#
+create  Response Model class, SerializedName with field variable
+#
+![serializable](https://user-images.githubusercontent.com/15821172/64904886-98241d00-d6e1-11e9-9dac-d207677d4f11.PNG)
+
+
 
 
 # Unit Testing
