@@ -2,6 +2,9 @@
 
 I made an app that contains a screen with home page,detail page,Searching title
 
+#
+Inside MainActivity Class:
+
 
 # Unit Testing
 
