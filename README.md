@@ -2,6 +2,10 @@
 
 I made an app that contains a screen with home page,detail page,Searching title
 
+
+#Unit Testing
+To test this app, I chose to use the Espresso framework. This framework is the official framework for Android unit testing. Other frameworks that can be used include Robotium and UIAutomator.
+
 Instrumentation tests coverage reports
 Generating instrumentation tests code coverage reports requires a minor change to the build script.
 
