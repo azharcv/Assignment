@@ -14,14 +14,6 @@ Now for the code coverage. To add the code coverage to the app we need to add th
  ![1](https://user-images.githubusercontent.com/15821172/64888379-e6063a00-d67b-11e9-81c4-7f324f5e353d.PNG)
 
 
-## Testing frameworks and APIs
-
-
-Espresso
-Espresso is a part of the ATSL (Android Testing Support Library) and a framework for writing concise, beautiful, and reliable Android UI tests.
-
-Espresso-Core
-The core API is small, predictable, and easy to learn API which. Espresso enables testing of state expectations, interactions, and assertions clearly without the distraction of boilerplate content, custom infrastructure, or messy implementation details getting in the way.
 
 ##  Add dependency inside the app gradle
 ![2](https://user-images.githubusercontent.com/15821172/64888600-747abb80-d67c-11e9-979b-6a3d909e61a6.PNG)
