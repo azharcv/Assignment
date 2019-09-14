@@ -4,6 +4,7 @@ I made an app that contains a screen with home page,detail page,Searching title
 
 #
 Inside MainActivity Class:
+implement retrofit inside project.
 #
 ![mainjava](https://user-images.githubusercontent.com/15821172/64904860-10d6a980-d6e1-11e9-86a7-e3d148adaf71.PNG)
 
