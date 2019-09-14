@@ -7,8 +7,9 @@ I made an app that contains a screen with home page,detail page,Searching title
 
 To test this app, I chose to use the Espresso framework. This framework is the official framework for Android unit testing. Other frameworks that can be used include Robotium and UIAutomator.
 
-Instrumentation tests coverage reports
-Generating instrumentation tests code coverage reports requires a minor change to the build script.
+##Adding Code Coverage
+
+Now for the code coverage. To add the code coverage to the app we need to add this line to the build.gradle:
 
  ![1](https://user-images.githubusercontent.com/15821172/64888379-e6063a00-d67b-11e9-81c4-7f324f5e353d.PNG)
 
